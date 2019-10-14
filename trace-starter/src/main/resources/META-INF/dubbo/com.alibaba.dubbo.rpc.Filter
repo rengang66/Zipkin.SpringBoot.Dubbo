@@ -1,0 +1,2 @@
+traceConsumerFilter=com.iiit.action.dubbo.trace.dubbo.TraceConsumerFilter
+traceProviderFilter=com.iiit.action.dubbo.trace.dubbo.TraceProviderFilter
